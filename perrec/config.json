@@ -1,0 +1,9 @@
+{
+    "data_dir": "data/",
+    "app_system_perm_file": "app_system_perms.json",
+    "app_api_file": "app_apis.json",
+    "api_desc_token_file": "api_desc_tokens.json",
+    "glove_embedding_file": "data/glove.6B.50d.txt",
+    "api_embedding_file": "data/docs_vectors.50d.txt",
+    "sim_dump_file": "sim_dump.npy"
+}
